@@ -6,33 +6,33 @@ different string operations such as
 length, uppercase, lowercase, 
 
 indexing, searching, slicing, replacing, 
-
 concatenation and trimming spaces.
 
 Algorithm:
 
-Start the program.
+1.Start the program.
 
-Declare a string s = "Hello Python".
+2.Declare a string s = "Hello Python".
 
-Display the original string.
+3.Display the original string.
 
-Find the length of the string using len().
+4.Find the length of the string using len().
 
-Convert the string into uppercase and 
-lowercase using upper() and lower().
+5.Convert the string into uppercase and 
+6.lowercase using upper() and lower().
 
-Access a character using its index.
+7.Access a character using its index.
 
-Find the position of a word using find().
+8.Find the position of a word using find().
 
-Extract a part of the string using slicing.
+9.Extract a part of the string using slicing.
 
-Replace a word using replace().
+10.Replace a word using replace().
 
-Check whether "Python" is present using in.
+11.Check whether "Python" is present using in.
 
-Join two strings using concatenation.
-Remove extra spaces using strip().
+12.Join two strings using concatenation.
 
-Stop the program.
+13.Remove extra spaces using strip().
+
+14.Stop the program.
