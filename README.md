@@ -19,6 +19,7 @@ Algorithm:
 4.Find the length of the string using len().
 
 5.Convert the string into uppercase and 
+
 6.lowercase using upper() and lower().
 
 7.Access a character using its index.
